@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/yinghuocho/gotun2socks/internal/packet"
+	"github.com/nange/gotun2socks/internal/packet"
 )
 
 type ipPacket struct {
