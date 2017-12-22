@@ -9,8 +9,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/yinghuocho/gosocks"
-	"github.com/yinghuocho/gotun2socks/internal/packet"
+	"github.com/nange/gosocks"
+	"github.com/nange/gotun2socks/internal/packet"
 )
 
 type tcpPacket struct {
